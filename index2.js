@@ -4,12 +4,11 @@ const client = new Discord.Client();
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
-
 client.on('ready', async() => {
-var server = "511633362331631621"; // ايدي السررفر
-var channel = "511639594286972948";//ايدي الروم
+var server = "507614444592037889"; // ايدي السررفر
+var channel = "513345631084085268";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('** فرعونفؤعونفؤعونفؤعونفؤعونفؤعونفرعونفؤعونفؤعونفؤعونفؤعونفرعونفرعونفرعونفؤعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفؤعونفؤعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفرعونفؤعونفرعونفرعونفؤعونفرعونفرعونفؤعونفؤعونفؤعونفؤعونفؤعونفؤعونفرعونفرعونفرعونفرعونفرعونفؤعونفرعونفرعونفرعومفرعون **')
+    client.guilds.get(server).channels.get(channel).send('** Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxer Voxe**')
     },305);
 })
 
